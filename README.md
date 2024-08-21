@@ -799,7 +799,7 @@
                 <div class="envelope"></div>
                 <div class="front"></div>
                 <div class="card">
-                    <div class="text">Tặng </br> Bé</br>Bít</div>
+                    <div class="text">Tặng  Bé  Bít</div>
                     <div class="heart"></div>
                 </div>
                 <div class="hearts">
