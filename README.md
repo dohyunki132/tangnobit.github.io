@@ -614,9 +614,9 @@
 
         <text dy="-2">
             <textPath style="font-times: fantasy;" xlink:href="#partialPath" startOffset="12">
-                🌹 ANH CÓ ĐÔI LỜI MUỐN NÓI 
+               💗 ANH CÓ ĐÔI LỜI MUỐN NÓI 
                 
-                VỚI EM VÌ KHÔNG THỂ GẶP TRỰC TIẾP NÊN ĐÃ LÀM CÁI NÀY🌹
+                VỚI EM VÌ KHÔNG THỂ GẶP TRỰC TIẾP NÊN ĐÃ LÀM CÁI NÀY💗
             </textPath>
         </text>
 
@@ -1049,7 +1049,7 @@
         // chữ của thư bạn muốn gửi
         let indexTextContent = 0;
         let textLetterContent = document.querySelector('.contentLetter');
-        const textLetterP = "Anh không biết là ta đã yêu nhau hay ghét nhau tới chừng nào, trong quá khứ anh cũng đã làm những việc không đúng với em nhưng em đã bỏ qua và chấp nhận anh để chúng mình có cơ hội bên nhau 1 lần nữa và thật sự anh cảm thấy rất hạnh phúc vì điều đó .Tuy rằng anh chưa hoàn hảo nhưng từ nay anh hứa sẽ mãi mãi iu emm và dành cho em những điều tuyệt vời nhất và sẽ mang tới hạnh phúc cho em .Em có muốn bên anh lần nữa khum💗";
+        const textLetterP = " Anh biết bản thân không tốt cũng k xứng đáng với tình yêu của em nhưng em vẫn bao dung và đón nhận anh 1 lần nữa,điều ấy thật sự khiến anh thấy hạnh phúc và biết ơn.Trong lần này anh hứa sẽ không làm em thất vọng thêm lần nào nữa.Em có muốn bên anh lần nữa khum💗";
         let timoutTextLetterContent;
         function textCharLetterContent() {
             if (indexTextContent < textLetterP.length) {
